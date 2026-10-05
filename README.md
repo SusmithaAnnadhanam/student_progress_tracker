@@ -189,3 +189,5 @@ Sensitive information such as database passwords and secret keys should never be
 ## Author
 
 Developed as a full-stack academic project using React, FastAPI, and MySQL.
+
+Project updated and maintained by Susmitha Annadhanam
